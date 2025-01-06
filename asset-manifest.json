@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vickyfulare/demo1/static/css/main.31d6cfe0.css",
+    "main.js": "/vickyfulare/demo1/static/js/main.6288735f.js",
+    "static/js/488.87b626f2.chunk.js": "/vickyfulare/demo1/static/js/488.87b626f2.chunk.js",
+    "index.html": "/vickyfulare/demo1/index.html",
+    "main.6288735f.js.map": "/vickyfulare/demo1/static/js/main.6288735f.js.map",
+    "488.87b626f2.chunk.js.map": "/vickyfulare/demo1/static/js/488.87b626f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6288735f.js"
+  ]
+}
